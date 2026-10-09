@@ -32,3 +32,7 @@ I moved forward and checked the new forest choices.
 
 ### What I Learned
 I learned how to use breakpoints and check my code step by step.
+
+### Debugging Analysis
+
+When I clicked Forest, the game changed `currentState` to `"forest"`. The old buttons were removed, and the forest question appeared. I used the debugger to check each step.
